@@ -12,3 +12,6 @@ interface Directors extends Teacher {
     function printTeacher(firstname, lastname){
     return printTeache("firstname", "lastname"),
     }
+    interface printTeacherFunction extend printTeacher {
+
+    }
