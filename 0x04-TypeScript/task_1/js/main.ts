@@ -8,4 +8,7 @@
 }
 interface Directors extends Teacher {
     numberOfReports: number
-}*/
+    }*/
+    function printTeacher(firstname, lastname){
+    return printTeache("firstname", "lastname"),
+    }
